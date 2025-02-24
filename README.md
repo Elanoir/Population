@@ -1,5 +1,5 @@
 #Data: 
-Three 3 datasets related to country population, fertility rate and life expectancy up to 2016, available in the World Bank Data
+Three datasets related to country population, fertility rate and life expectancy up to 2016, available in the World Bank Data
 
 #Aim: 
 Make a prediction Model for predicting these 3 variables. 
